@@ -11,4 +11,17 @@
     "enable_sfizz": false,
     "enable_ffmpeg": false
   }
+    {
+    "name": "N-TILT",
+    "author": "Nasko",
+    "path": "Plugins/HOLO-106+Lite.zip",
+    "patch": "HOLO-106 Lite.pd",
+    "formats": ["VST3"],
+    "type": "fx",
+    "version": "1.0.0",
+    "enable_gem": false,
+    "enable_sfizz": false,
+    "enable_ffmpeg": false
+  }
+]
 ]
